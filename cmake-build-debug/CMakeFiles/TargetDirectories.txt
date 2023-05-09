@@ -1,0 +1,5 @@
+C:/Users/beyon/git/CLion/LearningOpenGL/cmake-build-debug/CMakeFiles/learningOpenGL.dir
+C:/Users/beyon/git/CLion/LearningOpenGL/cmake-build-debug/CMakeFiles/dvd.dir
+C:/Users/beyon/git/CLion/LearningOpenGL/cmake-build-debug/CMakeFiles/learningstuff.dir
+C:/Users/beyon/git/CLion/LearningOpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/beyon/git/CLion/LearningOpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

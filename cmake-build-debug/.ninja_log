@@ -1,0 +1,8 @@
+# ninja log v5
+1	273	7053683613432069	build.ninja	8f5f111b159d5e95
+327	587	7053436196374256	learningOpenGL.exe	35264a35930ec1fc
+2	325	7053436193843421	CMakeFiles/learningOpenGL.dir/dvd.c.obj	70b3ab0cab3c3440
+3	468	7053586222680990	CMakeFiles/learningstuff.dir/learningstuff.c.obj	1b7e27bcae6535ae
+2	360	7053532376844472	CMakeFiles/dvd.dir/dvd.c.obj	dfc4fae85c185aab
+361	627	7053532379422783	dvd.exe	df7c388567adbc81
+469	797	7053586225892377	learningstuff.exe	d6320106840ca84b
